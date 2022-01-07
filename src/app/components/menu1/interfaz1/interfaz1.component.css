@@ -1,0 +1,12 @@
+p::selection {
+    background: green;
+    color: black;
+    text-shadow: 1px 1px #fff;
+}
+
+/* Firefox */
+p::-moz-selection {
+    background: green;
+    color: black;
+    text-shadow: 1px 1px #fff;
+}
